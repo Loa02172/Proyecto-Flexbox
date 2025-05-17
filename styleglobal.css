@@ -1,0 +1,21 @@
+body{
+    background-color: gold;
+    min-height: 100%;
+    flex: 1;
+}
+h1, h2, a, tr, th{
+    color: black;
+    text-align: center;
+}
+.opcion img{
+    height: 50px;
+    margin-right: 5px;
+}
+.logo img{
+    height: 100px;
+    margin-right: 5px;
+}
+.footer{
+    text-align: center;
+    padding: 15px;
+}
