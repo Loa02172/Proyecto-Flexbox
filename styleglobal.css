@@ -2,6 +2,7 @@ body{
     background-color: gold;
     min-height: 100%;
     flex: 1;
+    flex-wrap: wrap;
 }
 h1, h2, a, tr, th{
     color: black;
