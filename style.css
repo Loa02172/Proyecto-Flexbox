@@ -1,5 +1,6 @@
 table{ 
     border-collapse:collapse;
+    flex-direction: row;
 }
 th{
     text-align: center;
